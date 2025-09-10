@@ -2,7 +2,7 @@
 
 Uma calculadora de Índice de Massa Corporal (IMC) moderna e interativa, construída com foco em uma interface de usuário limpa e efeitos visuais atraentes.
 
-[https://imgur.com/a/baoGhYo](https://i.imgur.com/7MMjbzw.png)
+![Screenshot da Calculadora de IMC](https://i.imgur.com/7MMjbzw.png)
 
 ---
 
