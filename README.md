@@ -2,7 +2,7 @@
 
 Uma calculadora de Índice de Massa Corporal (IMC) moderna e interativa, construída com foco em uma interface de usuário limpa e efeitos visuais atraentes.
 
-https://imgur.com/a/baoGhYo
+[https://imgur.com/a/baoGhYo](https://i.imgur.com/7MMjbzw.png)
 
 ---
 
@@ -14,7 +14,6 @@ Este projeto é uma releitura moderna de uma simples calculadora de IMC. O objet
 
 ## ✨ Features
 
--   **Interface Moderna:** Design com efeito de *glassmorphism* (vidro fosco) e um tema escuro.
 -   **Background Interativo:** Partículas animadas que reagem ao movimento do mouse, criadas com a biblioteca tsParticles.
 -   **Responsividade:** Layout adaptável para uma boa experiência tanto em desktops quanto em dispositivos móveis.
 -   **Feedback Visual:** Efeitos de *hover* e *focus* nos elementos interativos, proporcionando uma resposta clara às ações do usuário.
@@ -39,12 +38,12 @@ Como o projeto utiliza CDNs e não possui um processo de *build*, você pode exe
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/xysouza/calculadora-imc/](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/xysouza/calculadora-imc.git](https://github.com/xysouza/calculadora-imc.git)
     ```
 
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd seu-repositorio
+    cd calculadora-imc
     ```
 
 3.  **Abra o arquivo `index.html`:**
